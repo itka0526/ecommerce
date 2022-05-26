@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea349d7b.css",
+    "main.js": "/static/js/main.ea1944c6.js",
+    "static/js/854.c11bf467.chunk.js": "/static/js/854.c11bf467.chunk.js",
+    "static/js/787.8caa6f87.chunk.js": "/static/js/787.8caa6f87.chunk.js",
+    "static/media/github-svgrepo-com.svg": "/static/media/github-svgrepo-com.4c033e0f402fe77d82bd5fe5740e5956.svg",
+    "static/media/camera.svg": "/static/media/camera.624136d02f8065cd9bc5d2c2ff03635c.svg",
+    "static/media/sortby.svg": "/static/media/sortby.c22938549f3cb80c20b29054b5ebc188.svg",
+    "static/media/signOut.svg": "/static/media/signOut.d063f4b34734ab36b41d1b2722e8881f.svg",
+    "static/media/gmail-svgrepo-com.svg": "/static/media/gmail-svgrepo-com.93dedf9c420eb85deb0c77fa60fce820.svg",
+    "static/media/facebook-svgrepo-com.svg": "/static/media/facebook-svgrepo-com.8921c88201330913edcb7f2ddf4fecbb.svg",
+    "static/media/upload-svgrepo-com.svg": "/static/media/upload-svgrepo-com.87eba6bb422ba4fe6be61766498e2f74.svg",
+    "static/media/add.svg": "/static/media/add.c687829df54166165ab9e85434e95e89.svg",
+    "static/media/delete.svg": "/static/media/delete.e1e4fc49779172575939a3083f1d44fe.svg",
+    "static/media/eye-svgrepo-com.svg": "/static/media/eye-svgrepo-com.30a23b535ae0b5b62b7e7b66093e89c1.svg",
+    "static/media/double-arrow-right-svgrepo-com.svg": "/static/media/double-arrow-right-svgrepo-com.bbe4996441045710152818c864172418.svg",
+    "static/media/searchicon.svg": "/static/media/searchicon.a9e6fc38b340bf058ce766baa8124f0b.svg",
+    "index.html": "/index.html",
+    "static/media/user-friends-svgrepo-com.svg": "/static/media/user-friends-svgrepo-com.d8ca072cb33c8fcd8bd7c68bf2ff70d0.svg",
+    "static/media/db-up.svg": "/static/media/db-up.76e1f31a20e9c982bbe024f9913d96b3.svg",
+    "static/media/exit-x.svg": "/static/media/exit-x.ee6024febcd1ca0f0dbf8765d20db4f2.svg",
+    "static/media/right-svgrepo-com.svg": "/static/media/right-svgrepo-com.4dfbc2f08b7493a9aab34a76c8cd980d.svg",
+    "static/media/left-svgrepo-com.svg": "/static/media/left-svgrepo-com.bf5742b09356c1688553cc5a6edd5d9b.svg",
+    "main.ea349d7b.css.map": "/static/css/main.ea349d7b.css.map",
+    "main.ea1944c6.js.map": "/static/js/main.ea1944c6.js.map",
+    "854.c11bf467.chunk.js.map": "/static/js/854.c11bf467.chunk.js.map",
+    "787.8caa6f87.chunk.js.map": "/static/js/787.8caa6f87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea349d7b.css",
+    "static/js/main.ea1944c6.js"
+  ]
+}
